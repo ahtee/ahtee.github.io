@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f5f5;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+header, footer {
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+h1, h2 {
+  color: #282c34;
+}
+
+.skills, .experience {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
