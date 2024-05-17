@@ -1,0 +1,16 @@
+{
+  "name": "my-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://ahtee.github.io",
+  "dependencies": {
+    // your dependencies
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    // other scripts
+  }
+}
